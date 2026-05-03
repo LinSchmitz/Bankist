@@ -3,6 +3,10 @@
 A simple banking app built with **JavaScript, HTML, and CSS**.
 Simulates basic banking operations with a clean UI.
 
+🔗 Live Demo
+
+👉 https://linschmitz.github.io/Bankist/
+
 ## 🚀 Features
 
 - 🔐 Login with username & PIN
